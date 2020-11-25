@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**MinhNNDev/MinhNNDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 I'm Minh Nguyen.  
@@ -19,11 +15,10 @@ const UserInformation = {
  pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        fronEnd: ["reactjs","react-native","html","css","jquery"],
-        backEnd: ["nodejs", "express"],
+        fronEnd: ["react-native","html","css","js","vuejs"],
+        backEnd: ["nodejs", "java", "c++"],
         database: ["mongo","mySql"],
         server: ["mongo","firebase"],
-        uiFramework: ["material-ui","bootstrap", "react-native-elements", "react-native-paper",""ant-deign"],
         others:["Photoshop", "Premiere", "After-effect","Illustraion","camtasia"]
     },
     architecture: ["React native app", "Single page applications","Landing web page", "Server"],
