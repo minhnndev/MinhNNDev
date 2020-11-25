@@ -4,7 +4,7 @@ I'm Minh Nguyen.
 ## Web/App Developer 👨‍💻
 
 [![](https://img.shields.io/badge/Facebook-NguyenNgocMinh-blue)](https://www.facebook.com/minhnn27oct/)
-[![](https://img.shields.io/badge/Gmail-minhnndev%40gmail.com-red)](mailto:ngocminhit2000@gmail.com)
+[![](https://img.shields.io/badge/Gmail-ngocminhit2000%40gmail.com-red)](mailto:ngocminhit2000@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -25,6 +25,6 @@ const UserInformation = {
     interests: ["music", "football", "travel", "english", "movie"]
 }
 ```
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 <em><b>My website Portfolio of me </b><3</em><p href="https://ngocminh.design" >https://ngocminh.design</p>
+ 
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
