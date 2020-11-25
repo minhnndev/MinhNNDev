@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 I'm Minh Nguyen.  
-## Web/App Developer 👨‍💻
+## Application Developer 👨‍💻
 
 [![](https://img.shields.io/badge/Facebook-NguyenNgocMinh-blue)](https://www.facebook.com/minhnn27oct/)
 [![](https://img.shields.io/badge/Gmail-ngocminhit2000%40gmail.com-red)](mailto:ngocminhit2000@gmail.com)
