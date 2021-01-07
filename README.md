@@ -13,11 +13,11 @@ const UserInformation = {
  pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        fronEnd: ["react-native","html","css","js","vuejs"],
+        frontEnd: ["react-native","html","css","js","vuejs"],
         backEnd: ["nodejs", "java", "c++"],
         database: ["mongo","mySql"],
         server: ["mongo","firebase"],
-        others:["Photoshop", "Premiere", "After-effect","Illustraion","camtasia"]
+        others:["Photoshop", "Premiere","Illustraion"]
     },
     architecture: ["React native app", "Single page applications","Landing web page", "Server"],
     interests: ["music", "football", "travel", "english", "movie"]
