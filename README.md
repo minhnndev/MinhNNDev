@@ -6,7 +6,7 @@ I'm Minh Nguyen.
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<img src="https://github.com/MinhNNDev/MinhNNDev/blob/main/Moewwwww.gif" width="250" style="float:right">
+### <img src="https://github.com/MinhNNDev/MinhNNDev/blob/main/Moewwwww.gif" width="50" style="float:right">
 
 
 ```javascript
