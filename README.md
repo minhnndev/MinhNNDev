@@ -7,5 +7,5 @@ I'm Minh Nguyen.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-<em><b>My website Portfolio of me </b><3</em><p href="https://minhnn.dev" >https://minhnn.dev</p>
+<em><b>My website Portfolio of me </b><3</em><p href="https://minhnn.me" >https://minhnn.dev</p>
 
